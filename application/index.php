@@ -1,5 +1,4 @@
 <?php
-
 /**
  * MyClass File Doc Comment
  *
